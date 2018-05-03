@@ -1,0 +1,14 @@
+/* Your button CSS code here */
+.btn-blue {
+  background-color: #E7EFF3;
+  color: #8EA6B4;
+  padding: 15px 25px;
+  border-radius: 8px;
+  box-shadow: 4px 6px 27px 0px rgba(161, 161, 161, 0.42);
+  transition: color 0.3s ease;
+
+}
+
+.btn-blue:hover {
+  color: #FF8F56;
+}
